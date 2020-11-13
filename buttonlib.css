@@ -1,0 +1,85 @@
+.uyari{
+
+    background-color: red;
+    color: white;
+
+}
+
+.onay{
+
+    background-color: green;
+    color:white;
+
+}
+
+.normal{
+
+    background-color: grey;
+    color: white;
+
+}
+
+.button{
+
+    background-color: bisque;
+
+}
+
+.modern{
+
+    border: none;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 15px;
+    transition: 200ms;
+    box-sizing: border-box;
+    outline: none;
+    cursor: pointer;
+
+}
+
+.modern2{
+
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 15px;
+    transition: 200ms;
+    box-sizing: border-box;
+    outline: none;
+    cursor: pointer;
+
+}
+
+.modern:hover , .modern:focus{
+
+    background-color: lightslategray;
+    transition: 200ms;
+
+}
+
+.modern:active{
+
+    background-color: turquoise;
+    transition: 200ms;
+
+}
+
+.oval5{
+
+    border-radius: 5px;
+
+}
+
+.oval10{
+
+    border-radius: 10px;
+
+}
+
+.oval20{
+
+    border-radius: 20;
+
+}
